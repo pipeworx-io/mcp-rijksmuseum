@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-rijksmuseum",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Rijksmuseum — the Dutch national museum's collection, via its open Data",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-6f4c326d917391a110184dba70636666bfadea6aa7bfa22979d405fd0fcaec2f",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-7247d90a43cbb42c99e614a5413c2c2bd9dee985c1d2eac9dcc125fcee42ae25",
+    "sourceCommit": "6fe8fb3e01138dfc4ebe7d5c246503aab9278d06"
   }
 }
