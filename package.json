@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-rijksmuseum",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Rijksmuseum — the Dutch national museum's collection, via its open Data Services API (data.rijksmuseum.nl).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "rijksmuseum",
     "gatewaySlug": "rijksmuseum",
-    "sourceHash": "v1-1c30bb23f5e1bef11bf5426e2de010ecb162a38307a8f4481e69975c0734da05",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-c52944b85c64207ed311529e8741341a476af3b1bff56d8419cac7d578d87d70",
+    "sourceCommit": "db27387ed3ef7ec4805d465f7964a7f65f937006"
   }
 }
